@@ -19,10 +19,10 @@ logging.basicConfig(filename=log_file, level=logging.INFO, format='%(asctime)s -
 DISCORD_WEBHOOK_FILE_NAME = "dwebhook.js"
 HTML_FILE_NAME = "index.html"
 
-twitter_url = 'https://spyboy.in/twitter'
-discord = 'https://spyboy.in/Discord'
-blog = 'https://spyboy.blog/'
-github = 'https://github.com/spyboy-productions/r4ven'
+twitter_url = 'https://youtube.com/@official_cyber_satyam27?si=KIjUlKKtDObLRGT9'
+discord = 'https://discord.gg/tGHJfZ6Ce'
+blog = 'https://youtube.com/@official_cyber_satyam27?si=KIjUlKKtDObLRGT9'
+github = 'https://github.com/OFFICIALcybersatyam27/'
 
 VERSION = '1.1.4'
 
@@ -50,7 +50,7 @@ if sys.stdout.isatty():
    ".'.'."{B}=.=.=.=.-,/   \,-{B}.=.=.=.=".{sc}'.'."
      `~.`.{M}`.`.`.`.`.     .'.'.'.'.'.'{sc}.~`
         `~.`` {M}` `{sc}.`.\   /.'{M}.' ' ''{sc}.~`
-   {G}R4ven{sc}   `=.-~~-._ ) ( _.-~~-.=`
+   {G}Sry{sc}   `=.-~~-._ ) ( _.-~~-.=`
                     `\ /`
                      ( )
                       Y
