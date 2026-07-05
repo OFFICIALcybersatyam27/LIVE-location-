@@ -211,7 +211,7 @@ def print_banners():
     """
     print(f'{R}{banner}{W}')
     print(f'{G}[+] {C}Version     : {W}{VERSION}')
-    print(f'{G}[+] {C}Created By  : {W}Spyboy')
+    print(f'{G}[+] {C}Created By  : {W}𒉭 ᎠᴀʀᴋㅤᏙᴇɴᴏᴍㅤ×͜× | 𝐓𝐇𝐄 𝐀𝐋𝐏𝐇𝐀 𒉭')
     print(f'{G}[+] {C}Twitter     : {W}{twitter_url}')
     print(f'{G}[+] {C}Discord     : {W}{discord}')
     print(f'{G}[+] {C}Blog        : {W}{blog}')
@@ -242,7 +242,6 @@ def main():
         folder_name = 'all'
 
     check_and_get_webhook_url(folder_name)
-
     port_forwarding_choice = ask_port_forwarding()
     if port_forwarding_choice == '1':
         # Start port forwarding in a separate thread
